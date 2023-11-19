@@ -15,3 +15,4 @@ run "npm install"
 run "npn run dev"
 
 To run unit test 
+run "npm run test"
